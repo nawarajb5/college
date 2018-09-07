@@ -1,0 +1,84 @@
+
+body
+{
+	background:#f7f3ef;
+	font-family:Comic Sans MS;
+	
+
+}
+.container{
+	padding:0;
+	margin:0;
+
+}
+#header_wrapper{
+	width:100%
+	height:20%;
+	border-bottom:5px solid pink;
+	background:#335599;
+}
+#header{
+	width:1060px;
+	height:100px;
+	margin:0 auto;
+}
+#header_log{
+	width:1000px;
+	height:100px;
+	margin:0 auto;
+}
+#form1{
+	float:right;
+line-height:100px;
+}
+#form1 button{
+	font-family:Comic Sans MS;
+color: #EF0037;
+height:40px;
+width:90px;
+text-decoration:none;
+	font-weight:bolder;
+	border-radius:8px;
+}
+	
+
+#form1 input{
+			width:150px;
+			height:20px;
+			font-family:Comic Sans MS;
+color: #EF0037;
+	height:40px;
+	font-weight:bolder;
+	border-radius:8px
+			}
+#content{
+width:1000px;
+margin:0 auto;}
+
+#footer{
+	width:100%;
+	height:50px;
+	padding:10px;
+	clear:both;
+background:#519AC5;
+border-top:5px ;
+}
+#form2{
+	margin-top:15px;
+	
+line-height:22px;
+font-family:Comic Sans MS;
+color: #EF0037;
+
+}
+#form2 input {
+margin-top:15px;
+font-family:Comic Sans MS;
+color: #EF0037;
+	height:40px;
+	font-weight:bolder;
+	border-radius:8px;
+	}
+	
+	
+	
