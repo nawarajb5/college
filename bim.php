@@ -54,7 +54,7 @@
 							<ul><li><a href="feestructurebim.php">Fee Structure</a></li>
 							<li><a href="bimannouncement.php">Announcements</a></li>
 							<li><a href="scholarshipcalculatorbim.php">Scholarship Calculator</a></li>
-							<li><a href="course.php">Courses</a></li>
+							<li><a href="coursebim.php">Courses</a></li>
 
 							<li><a href="logout.php">Logout</a></li></ul>
 						</div>
