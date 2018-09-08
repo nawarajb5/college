@@ -54,7 +54,7 @@
 							<ul><li><a href="feestructurebba.php">Fee Structure</a></li>
 							<li><a href="bbaannouncement.php">Announcements</a></li>
 							<li><a href="scholarshipcalculatorbba.php">Scholarship Calculator</a></li>
-							<li><a href="course.php">Courses</a></li>
+							<li><a href="coursebba.php">Courses</a></li>
 
 							<li><a href="logout.php">Logout</a></li></ul>
 					
